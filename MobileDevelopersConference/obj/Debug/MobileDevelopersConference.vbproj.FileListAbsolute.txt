@@ -1,0 +1,20 @@
+c:\users\lisakilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\bin\Debug\MobileDevelopersConference.exe.config
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\bin\Debug\MobileDevelopersConference.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\bin\Debug\MobileDevelopersConference.pdb
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\bin\Debug\MobileDevelopersConference.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.frmMobileDevConference.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.Resources.resources
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.vbproj.GenerateResource.Cache
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.exe
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.xml
+C:\Users\LisaKilker\documents\visual studio 2012\Projects\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.pdb
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\bin\Debug\MobileDevelopersConference.exe.config
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.exe
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.xml
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.pdb
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\bin\Debug\MobileDevelopersConference.exe
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\bin\Debug\MobileDevelopersConference.pdb
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\bin\Debug\MobileDevelopersConference.xml
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.frmMobileDevConference.resources
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.Resources.resources
+C:\Users\LisaKilker\Desktop\MobileDevelopersConference\MobileDevelopersConference\obj\Debug\MobileDevelopersConference.vbproj.GenerateResource.Cache
